@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **inqu@annabxlla.me**
 
+- 📄 My [Resume](https://annabxlla.github.io/Resume/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/made4cod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="made4cod" height="30" width="40" /></a> 
