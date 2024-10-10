@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently inbetween projects as I am about to start classes
 
-- 🌱 I know a little bit of **Japaneese and** and a lot more of **Spanish (Hola 👋)**
+- 🌱 I know a little bit of **Japanese** and a lot more of **Spanish (Hola 👋)**
 
 - 💬 Ask me about anything **Furry, Minecraft, Java/Javascript**
 
