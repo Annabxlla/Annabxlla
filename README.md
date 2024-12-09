@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **inqu@annabxlla.me**
 
-- 📄 My [Resume](https://annabxlla.github.io/Resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
